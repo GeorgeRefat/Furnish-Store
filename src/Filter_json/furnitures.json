@@ -1,0 +1,868 @@
+{
+  "products": [
+    {
+      "image_path": "images/product21.jpg",
+      "name": "Modern Bar Stool",
+      "price": 89.99,
+      "size": "Small",
+      "description": "A sleek modern bar stool featuring a metal frame and comfortable cushioned seat. Perfect for kitchens or home bars, this stool combines style and function, offering a footrest and adjustable height mechanism to suit any user. Its minimalist design blends effortlessly with contemporary decor styles.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product72.jpg",
+      "name": "Round Dining Table",
+      "price": 479.99,
+      "size": "Standard",
+      "description": "A classic round dining table made from solid wood. Perfect for family dinners or casual dining, this table offers durability and style. Its timeless design fits well in both modern and traditional dining rooms, making it a versatile piece of furniture.",
+      "rating": 2,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product73.jpg",
+      "name": "L-Shaped Sofa",
+      "price": 1099.99,
+      "size": "Large",
+      "description": "An L-shaped sofa with soft fabric and plush cushions. This large, comfortable sofa provides ample seating for family gatherings or relaxing. Its modern design adds a sleek, contemporary touch to any living space, making it a popular choice for modern homes.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product74.jpg",
+      "name": "Kitchen Island Cart",
+      "price": 329.99,
+      "size": "Standard",
+      "description": "A functional kitchen island cart with a wooden top and multiple shelves. This portable cart offers additional prep and storage space, making it perfect for small kitchens. Its sturdy construction and sleek design make it a practical and stylish addition to any kitchen.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product75.jpg",
+      "name": "Reclining Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A large reclining sofa with plush seating and adjustable recline positions. This sofa is perfect for relaxing after a long day or enjoying a movie night. Its sleek design and durable construction make it an ideal addition to any living room or home theater.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product76.jpg",
+      "name": "Square Coffee Table",
+      "price": 199.99,
+      "size": "Small",
+      "description": "A modern square coffee table with a sleek design and a solid wood finish. Perfect for adding a functional surface to your living room, this coffee table offers both style and durability. Its clean lines complement a wide range of decor styles, from contemporary to traditional.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product77.jpg",
+      "name": "Tufted Wingback Chair",
+      "price": 349.99,
+      "size": "Small",
+      "description": "A luxurious tufted wingback chair with soft upholstery and a high back for extra support. This chair adds a touch of elegance to any living room, bedroom, or office. Its timeless design and comfort make it a perfect seating option for both relaxation and style.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product78.jpg",
+      "name": "Large Oak Dining Table",
+      "price": 699.99,
+      "size": "Large",
+      "description": "A large oak dining table with a natural wood finish. Ideal for hosting large family dinners or gatherings, this sturdy table offers both style and functionality. Its classic design complements a variety of decor styles, making it a versatile piece for any dining room.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product79.jpg",
+      "name": "Faux Leather Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A stylish faux leather sofa with a modern design and comfortable seating. This large sofa is perfect for contemporary living spaces, offering both luxury and durability. Its sleek look and soft cushions make it a great addition to any living room or lounge.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product80.jpg",
+      "name": "Kitchen Buffet Cabinet",
+      "price": 399.99,
+      "size": "Standard",
+      "description": "A spacious kitchen buffet cabinet with multiple drawers and shelves. Perfect for storing dishware, linens, or kitchen essentials, this cabinet combines practicality with style. Its clean design fits well in both traditional and modern kitchens, offering a functional storage solution.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product81.jpg",
+      "name": "Retro Swivel Chair",
+      "price": 199.99,
+      "size": "Small",
+      "description": "A retro-inspired swivel chair with a sleek, modern design. Perfect for home offices or living spaces, this chair combines style with comfort. The cushioned seat and rotating base provide versatility, making it a great addition to any room with a modern or vintage decor.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product82.jpg",
+      "name": "Glass Top Console Table",
+      "price": 329.99,
+      "size": "Standard",
+      "description": "A chic glass top console table with a metal frame. Ideal for entryways or living rooms, this table adds a modern touch to any space. Its minimalist design and transparent top make it a versatile piece that blends with a variety of decor styles.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product83.jpg",
+      "name": "Contemporary Sectional Sofa",
+      "price": 1199.99,
+      "size": "Large",
+      "description": "A large contemporary sectional sofa with a plush, comfortable design. This sofa offers ample seating and a modern look, making it perfect for family rooms or spacious living areas. Its durable construction and soft cushions ensure long-lasting comfort and style.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product84.jpg",
+      "name": "Wooden Kitchen Table",
+      "price": 349.99,
+      "size": "Standard",
+      "description": "A sturdy wooden kitchen table with a natural finish, ideal for casual dining or family meals. This table’s simple design offers durability and versatility, making it a great fit for any kitchen or dining area. Perfect for both everyday use and entertaining guests.",
+      "rating": 4,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product85.jpg",
+      "name": "Chaise Lounge Chair",
+      "price": 499.99,
+      "size": "Large",
+      "description": "A luxurious chaise lounge chair with plush cushions and a sleek design. Perfect for relaxing, this chair offers both style and comfort for any living room or bedroom. Its classic silhouette and high-quality upholstery make it a great addition to any home.",
+      "rating": 5,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product86.jpg",
+      "name": "Glass Dining Table with Wooden Legs",
+      "price": 599.99,
+      "size": "Standard",
+      "description": "A modern glass dining table with wooden legs, offering a stylish and functional design. The transparent top creates a light, airy feel, while the sturdy wooden legs add warmth and stability. Perfect for contemporary dining spaces or kitchens.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product87.jpg",
+      "name": "Compact Sleeper Sofa",
+      "price": 699.99,
+      "size": "Small",
+      "description": "A compact sleeper sofa with a pull-out bed, perfect for small apartments or guest rooms. This sofa offers both seating and sleeping options in one stylish package, making it a versatile choice for any home. Its sleek design complements a range of decor styles.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product88.jpg",
+      "name": "Stainless Steel Kitchen Island",
+      "price": 499.99,
+      "size": "Standard",
+      "description": "A sleek stainless steel kitchen island with ample storage space and a durable top. This island provides additional prep space and storage, making it a great addition to any modern kitchen. Its industrial design fits well in both contemporary and traditional kitchens.",
+      "rating": 3,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product22.jpg",
+      "name": "Rustic Farmhouse Table",
+      "price": 429.99,
+      "size": "Large",
+      "description": "A rustic farmhouse dining table made of reclaimed wood, designed to bring a touch of the countryside to your home. Its large surface is ideal for family dinners or gatherings, while its sturdy craftsmanship ensures longevity. Perfect for those who love traditional, rustic designs.",
+      "rating": 5,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product23.jpg",
+      "name": "Compact Recliner Sofa",
+      "price": 579.99,
+      "size": "Standard",
+      "description": "A compact recliner sofa with soft upholstery and reclining capabilities. The perfect balance between space-saving design and comfort, this sofa is ideal for small living rooms or entertainment spaces. Enjoy relaxing in style while the reclining feature allows for customizable comfort and support.",
+      "rating": 4,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product24.jpg",
+      "name": "Classic Wooden Kitchen Bench",
+      "price": 199.99,
+      "size": "Standard",
+      "description": "A classic wooden kitchen bench designed for practicality and durability. With a simple yet elegant design, this bench offers additional seating for your kitchen or dining area. Made from solid wood, it pairs beautifully with rustic or traditional decor styles, providing both comfort and functionality.",
+      "rating": 1,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product25.jpg",
+      "name": "Contemporary Dining Chair",
+      "price": 139.99,
+      "size": "Small",
+      "description": "A stylish contemporary dining chair featuring a cushioned seat and high backrest for enhanced comfort. Its sturdy metal legs provide durability, while its modern design fits well in a variety of dining room styles. Ideal for creating a sophisticated dining experience for family and guests.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product26.jpg",
+      "name": "Round Glass Coffee Table",
+      "price": 249.99,
+      "size": "Small",
+      "description": "A round glass coffee table with a sleek metal base, offering a modern and minimalist look. The transparent top creates a sense of space, making it perfect for smaller living rooms. Its simple design complements a wide range of decor styles, from modern to industrial.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product27.jpg",
+      "name": "Three-Seater Velvet Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A luxurious three-seater velvet sofa with plush cushions for ultimate comfort. The velvet upholstery adds a touch of elegance to your living space, while the durable frame ensures long-lasting use. This sofa is perfect for large living rooms or creating a sophisticated lounge area.",
+      "rating": 4,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product28.jpg",
+      "name": "Wooden Kitchen Island",
+      "price": 579.99,
+      "size": "Large",
+      "description": "A versatile wooden kitchen island with a spacious countertop and multiple storage compartments. Ideal for preparing meals or entertaining guests, this island provides both functionality and style. The durable wood construction ensures longevity, while its neutral finish complements various kitchen decor styles.",
+      "rating": 5,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product29.jpg",
+      "name": "Folding Patio Chair",
+      "price": 69.99,
+      "size": "Small",
+      "description": "A convenient folding patio chair made with a sturdy metal frame and weather-resistant fabric. This lightweight chair is perfect for outdoor spaces, offering portability and easy storage. Its simple design makes it a practical seating option for patios, balconies, or backyard gatherings.",
+      "rating": 3,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product30.jpg",
+      "name": "Wooden Dining Table Set",
+      "price": 749.99,
+      "size": "Large",
+      "description": "A beautiful wooden dining table set, complete with six matching chairs. The table features a smooth finish and elegant legs, creating a sophisticated look for formal dining spaces. Perfect for large families or entertaining guests, this set combines style and practicality.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product31.jpg",
+      "name": "L-Shaped Sectional Sofa",
+      "price": 999.99,
+      "size": "Large",
+      "description": "A spacious L-shaped sectional sofa with plush cushions and a durable frame. Ideal for larger living rooms, this sofa offers ample seating for family and guests. Its contemporary design and soft fabric make it a comfortable and stylish addition to any modern home.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product32.jpg",
+      "name": "Kitchen Storage Cabinet",
+      "price": 329.99,
+      "size": "Standard",
+      "description": "A stylish kitchen storage cabinet with multiple shelves and drawers for organizing cookware and utensils. The cabinet’s sleek design blends seamlessly into modern kitchens, offering functionality without sacrificing style. Perfect for small to medium kitchens where extra storage space is needed.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product33.jpg",
+      "name": "Tufted Dining Chair",
+      "price": 119.99,
+      "size": "Small",
+      "description": "A luxurious tufted dining chair with a cushioned seat and backrest for maximum comfort. Its elegant design features sturdy wooden legs and premium upholstery, making it a perfect addition to formal dining spaces. Ideal for creating an upscale atmosphere in any home.",
+      "rating": 5,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product34.jpg",
+      "name": "Rectangular Dining Table",
+      "price": 499.99,
+      "size": "Large",
+      "description": "A rectangular dining table with a solid wood top and metal legs. This modern design provides plenty of space for family meals or entertaining guests. Its minimalist look fits perfectly with a variety of interior styles, from industrial to contemporary.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product35.jpg",
+      "name": "Reclining Sofa",
+      "price": 699.99,
+      "size": "Large",
+      "description": "A comfortable reclining sofa that offers adjustable seating positions for ultimate relaxation. Upholstered in durable fabric, this sofa is perfect for movie nights or lounging with family. Its spacious design makes it ideal for larger living rooms or home theaters.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product36.jpg",
+      "name": "Contemporary Kitchen Table",
+      "price": 299.99,
+      "size": "Standard",
+      "description": "A contemporary kitchen table with a clean, minimalist design. This table is perfect for casual dining, offering a smooth wooden surface and sturdy legs. Its compact size makes it ideal for smaller kitchens or dining areas, while its modern style complements any decor.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product37.jpg",
+      "name": "Leather Armchair",
+      "price": 299.99,
+      "size": "Small",
+      "description": "A luxurious leather armchair with a sturdy wooden frame and plush cushions. This chair offers a touch of elegance and comfort, making it perfect for reading or relaxing. Its classic design fits seamlessly into both traditional and modern living rooms.",
+      "rating": 5,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product38.jpg",
+      "name": "Kitchen Bar Table",
+      "price": 279.99,
+      "size": "Standard",
+      "description": "A stylish kitchen bar table with a high top and sturdy base, perfect for casual dining or entertaining guests. The sleek design adds a modern touch to any kitchen or bar area, making it both a functional and attractive addition to your home.",
+      "rating": 4,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product39.jpg",
+      "name": "Adjustable Swivel Chair",
+      "price": 139.99,
+      "size": "Small",
+      "description": "An adjustable swivel chair with a cushioned seat and backrest for added comfort. Ideal for home offices or study areas, this chair provides flexibility and support, allowing you to stay comfortable during long hours of work. Its sleek design complements modern office spaces.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product40.jpg",
+      "name": "Corner Sectional Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A large corner sectional sofa with soft cushions and a durable frame. Designed for maximum comfort, this sofa offers plenty of seating for family gatherings or lounging. Its modern style makes it a great fit for contemporary living rooms.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product41.jpg",
+      "name": "Wooden Kitchen Cart",
+      "price": 199.99,
+      "size": "Standard",
+      "description": "A versatile wooden kitchen cart with wheels, offering extra storage and prep space. The cart features a butcher block top and spacious shelves, making it perfect for small kitchens. Its portable design allows for easy movement, adding functionality to your kitchen.",
+      "rating": 3,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product42.jpg",
+      "name": "Compact Dining Table",
+      "price": 259.99,
+      "size": "Standard",
+      "description": "A compact dining table with a sleek design, perfect for small spaces. The table’s modern look and durable construction make it ideal for casual dining. Its small footprint allows it to fit comfortably in kitchens or dining areas with limited space.",
+      "rating": 4,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product43.jpg",
+      "name": "Chesterfield Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A classic Chesterfield sofa with tufted leather upholstery and rolled arms, offering a timeless design. This luxurious sofa adds elegance to any living space, providing both comfort and sophistication. Perfect for traditional or vintage-inspired interiors.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product44.jpg",
+      "name": "Wooden Ladder Shelf",
+      "price": 159.99,
+      "size": "Small",
+      "description": "A rustic wooden ladder shelf with multiple tiers for displaying kitchen items, books, or decorative pieces. This space-saving shelf adds a touch of farmhouse charm to any kitchen or living area, offering both storage and style in one functional piece.",
+      "rating": 1,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product45.jpg",
+      "name": "Mid-Century Lounge Chair",
+      "price": 249.99,
+      "size": "Small",
+      "description": "A stylish mid-century lounge chair with a wooden frame and upholstered cushions. Perfect for reading or relaxing, this chair adds a touch of retro flair to your living space. Its compact size makes it a great choice for smaller rooms or corners.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product46.jpg",
+      "name": "Glass Dining Table",
+      "price": 399.99,
+      "size": "Large",
+      "description": "A sleek glass dining table with a stainless steel frame, offering a contemporary design. The transparent glass top gives the table a modern and open feel, making it ideal for formal dining rooms or casual kitchen spaces.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product47.jpg",
+      "name": "Plush Reclining Sofa",
+      "price": 799.99,
+      "size": "Large",
+      "description": "A plush reclining sofa with soft fabric upholstery, offering superior comfort for relaxing. The recline function allows you to find the perfect position for lounging, while the durable frame ensures long-lasting use. Ideal for living rooms or home theaters.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product48.jpg",
+      "name": "Kitchen Pantry Cabinet",
+      "price": 379.99,
+      "size": "Large",
+      "description": "A spacious kitchen pantry cabinet with adjustable shelves and ample storage space. Perfect for organizing food, cookware, and small appliances, this cabinet’s sleek design fits well in modern kitchens, offering both style and practicality.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product49.jpg",
+      "name": "Ergonomic Desk Chair",
+      "price": 149.99,
+      "size": "Small",
+      "description": "An ergonomic desk chair with a mesh back and adjustable seat height. This chair offers superior comfort and support for long hours of work, featuring a sleek design that fits well in home offices or study spaces.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product50.jpg",
+      "name": "Extendable Wooden Table",
+      "price": 599.99,
+      "size": "Large",
+      "description": "An extendable wooden dining table with a classic design and smooth extension mechanism. Perfect for large families or hosting dinner parties, this table combines practicality with timeless style, making it a great addition to any dining room.",
+      "rating": 2,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product51.jpg",
+      "name": "Upholstered Lounge Chair",
+      "price": 199.99,
+      "size": "Small",
+      "description": "A cozy upholstered lounge chair with soft fabric and a durable wooden frame. Ideal for relaxing, this chair offers both comfort and style. Its contemporary design fits well in living rooms, reading corners, or bedrooms, providing a versatile seating option for any space.",
+      "rating": 3,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product52.jpg",
+      "name": "Compact Coffee Table",
+      "price": 149.99,
+      "size": "Small",
+      "description": "A compact coffee table made from solid wood, featuring a clean, minimalist design. Perfect for smaller living spaces, this table offers a functional surface without overwhelming the room. Its simple look blends well with both modern and traditional decor styles.",
+      "rating": 4,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product53.jpg",
+      "name": "Leather Corner Sofa",
+      "price": 1099.99,
+      "size": "Large",
+      "description": "A luxurious leather corner sofa with plush seating and a durable construction. Perfect for larger living spaces, this sofa offers plenty of room for family or guests. The high-quality leather upholstery adds sophistication, making it an elegant addition to any home.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product54.jpg",
+      "name": "Bistro Kitchen Table",
+      "price": 259.99,
+      "size": "Standard",
+      "description": "A charming bistro-style kitchen table with a round top and sturdy metal base. Ideal for small dining areas or breakfast nooks, this table adds a touch of Parisian charm to your kitchen, making it perfect for casual meals and conversations.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product55.jpg",
+      "name": "Reclining Armchair",
+      "price": 349.99,
+      "size": "Small",
+      "description": "A plush reclining armchair with soft cushions and a sturdy frame. This chair is perfect for relaxing after a long day, offering customizable reclining positions for optimal comfort. Its modern design and fabric make it a stylish addition to any living room.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product56.jpg",
+      "name": "Industrial Dining Table",
+      "price": 599.99,
+      "size": "Large",
+      "description": "An industrial-style dining table with a reclaimed wood top and metal legs. This large table is ideal for family dinners or gatherings, offering both durability and a rustic charm. Its sturdy construction ensures long-lasting use while enhancing any dining room's decor.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product57.jpg",
+      "name": "Three-Seater Linen Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A comfortable three-seater linen sofa with plush cushions and a durable wooden frame. Perfect for both lounging and entertaining, this sofa offers a modern design that fits seamlessly into any living space. Its neutral color makes it a versatile choice for any decor.",
+      "rating": 4,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product58.jpg",
+      "name": "Rolling Kitchen Cart",
+      "price": 179.99,
+      "size": "Standard",
+      "description": "A versatile rolling kitchen cart with multiple shelves and a solid wood top. This cart is perfect for adding extra storage and prep space to your kitchen, with the added convenience of mobility. Ideal for small kitchens or those needing flexible work areas.",
+      "rating": 5,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product59.jpg",
+      "name": "Velvet Accent Chair",
+      "price": 229.99,
+      "size": "Small",
+      "description": "A luxurious velvet accent chair with a sturdy metal frame and plush cushions. This chair adds a touch of sophistication to any room, offering a comfortable seating option for living rooms or bedrooms. Its elegant design fits well with both modern and traditional decor.",
+      "rating": 5,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product60.jpg",
+      "name": "Expandable Dining Table",
+      "price": 749.99,
+      "size": "Large",
+      "description": "An expandable dining table with a sleek wooden finish and smooth extension mechanism. Perfect for large gatherings or family dinners, this table offers flexibility in seating arrangements. Its classic design makes it a versatile choice for both traditional and modern homes.",
+      "rating": 4,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product61.jpg",
+      "name": "Sectional Sofa with Chaise",
+      "price": 1199.99,
+      "size": "Large",
+      "description": "A spacious sectional sofa with an attached chaise for extra lounging space. The soft fabric upholstery and plush cushions provide ultimate comfort, making it perfect for relaxing or hosting guests. Its contemporary design fits well in modern living rooms.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product62.jpg",
+      "name": "Rustic Kitchen Bench",
+      "price": 199.99,
+      "size": "Standard",
+      "description": "A rustic kitchen bench made from solid wood, offering a simple yet elegant seating solution for dining areas or breakfast nooks. Its durable construction ensures long-lasting use, while its design complements a wide range of decor styles, from farmhouse to industrial.",
+      "rating": 2,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product63.jpg",
+      "name": "Fabric Dining Chair Set",
+      "price": 349.99,
+      "size": "Small",
+      "description": "A set of fabric dining chairs with cushioned seats and sturdy wooden frames. These chairs offer both comfort and style, making them perfect for family meals or entertaining guests. Their versatile design fits well with a variety of dining room decor styles.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product64.jpg",
+      "name": "Oval Glass Dining Table",
+      "price": 699.99,
+      "size": "Large",
+      "description": "A modern oval glass dining table with a chrome base, offering a sleek and elegant look. The tempered glass top provides a durable surface for meals, while the base adds a touch of contemporary style. Ideal for formal dining spaces or modern kitchens.",
+      "rating": 5,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product65.jpg",
+      "name": "Convertible Sleeper Sofa",
+      "price": 999.99,
+      "size": "Large",
+      "description": "A versatile convertible sleeper sofa with a fold-out bed. Perfect for small apartments or guest rooms, this sofa offers both seating and sleeping options. Its contemporary design and soft fabric make it a comfortable addition to any home, providing flexibility for overnight guests.",
+      "rating": 4,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product66.jpg",
+      "name": "Wooden Kitchen Storage Rack",
+      "price": 129.99,
+      "size": "Standard",
+      "description": "A wooden kitchen storage rack with multiple tiers for organizing cookware and utensils. Its simple design and sturdy construction make it a practical addition to any kitchen. Perfect for small kitchens that need additional storage space without taking up too much room.",
+      "rating": 3,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product67.jpg",
+      "name": "Tufted Lounge Chair",
+      "price": 239.99,
+      "size": "Small",
+      "description": "A stylish tufted lounge chair with a comfortable cushioned seat and backrest. Its elegant design features wooden legs and premium upholstery, making it a perfect addition to any living room or bedroom. Ideal for reading or relaxing in style.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product68.jpg",
+      "name": "Rectangular Kitchen Table",
+      "price": 399.99,
+      "size": "Standard",
+      "description": "A rectangular kitchen table made from solid wood, offering a durable and stylish surface for family meals. Its clean lines and simple design make it a versatile choice for both modern and traditional kitchens. Perfect for everyday dining or entertaining guests.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product69.jpg",
+      "name": "Upholstered Sofa Bed",
+      "price": 749.99,
+      "size": "Large",
+      "description": "A comfortable upholstered sofa bed with a fold-out mattress, offering both seating and sleeping options. Ideal for small spaces or guest rooms, this sofa bed provides flexibility and comfort, with a modern design that fits well in any living area.",
+      "rating": 5,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product70.jpg",
+      "name": "Compact Kitchen Island",
+      "price": 349.99,
+      "size": "Standard",
+      "description": "A compact kitchen island with a solid wood top and storage shelves. Perfect for small kitchens, this island provides extra prep space and storage without taking up too much room. Its versatile design fits well in both traditional and modern kitchens.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product22.jpg",
+      "name": "Rustic Farmhouse Table",
+      "price": 429.99,
+      "size": "Large",
+      "description": "A rustic farmhouse dining table made of reclaimed wood, designed to bring a touch of the countryside to your home. Its large surface is ideal for family dinners or gatherings, while its sturdy craftsmanship ensures longevity. Perfect for those who love traditional, rustic designs.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product23.jpg",
+      "name": "Compact Recliner Sofa",
+      "price": 579.99,
+      "size": "Standard",
+      "description": "A compact recliner sofa with soft upholstery and reclining capabilities. The perfect balance between space-saving design and comfort, this sofa is ideal for small living rooms or entertainment spaces. Enjoy relaxing in style while the reclining feature allows for customizable comfort and support.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product24.jpg",
+      "name": "Classic Wooden Kitchen Bench",
+      "price": 199.99,
+      "size": "Standard",
+      "description": "A classic wooden kitchen bench designed for practicality and durability. With a simple yet elegant design, this bench offers additional seating for your kitchen or dining area. Made from solid wood, it pairs beautifully with rustic or traditional decor styles, providing both comfort and functionality.",
+      "rating": 1,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product25.jpg",
+      "name": "Contemporary Dining Chair",
+      "price": 139.99,
+      "size": "Small",
+      "description": "A stylish contemporary dining chair featuring a cushioned seat and high backrest for enhanced comfort. Its sturdy metal legs provide durability, while its modern design fits well in a variety of dining room styles. Ideal for creating a sophisticated dining experience for family and guests.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product26.jpg",
+      "name": "Round Glass Coffee Table",
+      "price": 249.99,
+      "size": "Small",
+      "description": "A round glass coffee table with a sleek metal base, offering a modern and minimalist look. The transparent top creates a sense of space, making it perfect for smaller living rooms. Its simple design complements a wide range of decor styles, from modern to industrial.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product27.jpg",
+      "name": "Three-Seater Velvet Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A luxurious three-seater velvet sofa with plush cushions for ultimate comfort. The velvet upholstery adds a touch of elegance to your living space, while the durable frame ensures long-lasting use. This sofa is perfect for large living rooms or creating a sophisticated lounge area.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product28.jpg",
+      "name": "Wooden Kitchen Island",
+      "price": 579.99,
+      "size": "Large",
+      "description": "A versatile wooden kitchen island with a spacious countertop and multiple storage compartments. Ideal for preparing meals or entertaining guests, this island provides both functionality and style. The durable wood construction ensures longevity, while its neutral finish complements various kitchen decor styles.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product29.jpg",
+      "name": "Folding Patio Chair",
+      "price": 69.99,
+      "size": "Small",
+      "description": "A convenient folding patio chair made with a sturdy metal frame and weather-resistant fabric. This lightweight chair is perfect for outdoor spaces, offering portability and easy storage. Its simple design makes it a practical seating option for patios, balconies, or backyard gatherings.",
+      "rating": 4,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product30.jpg",
+      "name": "Wooden Dining Table Set",
+      "price": 749.99,
+      "size": "Large",
+      "description": "A beautiful wooden dining table set, complete with six matching chairs. The table features a smooth finish and elegant legs, creating a sophisticated look for formal dining spaces. Perfect for large families or entertaining guests, this set combines style and practicality.",
+      "rating": 2,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product31.jpg",
+      "name": "L-Shaped Sectional Sofa",
+      "price": 999.99,
+      "size": "Large",
+      "description": "A spacious L-shaped sectional sofa with plush cushions and a durable frame. Ideal for larger living rooms, this sofa offers ample seating for family and guests. Its contemporary design and soft fabric make it a comfortable and stylish addition to any modern home.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product32.jpg",
+      "name": "Kitchen Storage Cabinet",
+      "price": 329.99,
+      "size": "Standard",
+      "description": "A stylish kitchen storage cabinet with multiple shelves and drawers for organizing cookware and utensils. The cabinet’s sleek design blends seamlessly into modern kitchens, offering functionality without sacrificing style. Perfect for small to medium kitchens where extra storage space is needed.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product33.jpg",
+      "name": "Tufted Dining Chair",
+      "price": 119.99,
+      "size": "Small",
+      "description": "A luxurious tufted dining chair with a cushioned seat and backrest for maximum comfort. Its elegant design features sturdy wooden legs and premium upholstery, making it a perfect addition to formal dining spaces. Ideal for creating an upscale atmosphere in any home.",
+      "rating": 5,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product34.jpg",
+      "name": "Rectangular Dining Table",
+      "price": 499.99,
+      "size": "Large",
+      "description": "A rectangular dining table with a solid wood top and metal legs. This modern design provides plenty of space for family meals or entertaining guests. Its minimalist look fits perfectly with a variety of interior styles, from industrial to contemporary.",
+      "rating": 1,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product35.jpg",
+      "name": "Reclining Sofa",
+      "price": 699.99,
+      "size": "Large",
+      "description": "A comfortable reclining sofa that offers adjustable seating positions for ultimate relaxation. Upholstered in durable fabric, this sofa is perfect for movie nights or lounging with family. Its spacious design makes it ideal for larger living rooms or home theaters.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product36.jpg",
+      "name": "Contemporary Kitchen Table",
+      "price": 299.99,
+      "size": "Standard",
+      "description": "A contemporary kitchen table with a clean, minimalist design. This table is perfect for casual dining, offering a smooth wooden surface and sturdy legs. Its compact size makes it ideal for smaller kitchens or dining areas, while its modern style complements any decor.",
+      "rating": 2,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product37.jpg",
+      "name": "Leather Armchair",
+      "price": 299.99,
+      "size": "Small",
+      "description": "A luxurious leather armchair with a sturdy wooden frame and plush cushions. This chair offers a touch of elegance and comfort, making it perfect for reading or relaxing. Its classic design fits seamlessly into both traditional and modern living rooms.",
+      "rating": 4,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product38.jpg",
+      "name": "Kitchen Bar Table",
+      "price": 279.99,
+      "size": "Standard",
+      "description": "A stylish kitchen bar table with a high top and sturdy base, perfect for casual dining or entertaining guests. The sleek design adds a modern touch to any kitchen or bar area, making it both a functional and attractive addition to your home.",
+      "rating": 5,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product39.jpg",
+      "name": "Adjustable Swivel Chair",
+      "price": 139.99,
+      "size": "Small",
+      "description": "An adjustable swivel chair with a cushioned seat and backrest for added comfort. Ideal for home offices or study areas, this chair provides flexibility and support, allowing you to stay comfortable during long hours of work. Its sleek design complements modern office spaces.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product40.jpg",
+      "name": "Corner Sectional Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A large corner sectional sofa with soft cushions and a durable frame. Designed for maximum comfort, this sofa offers plenty of seating for family gatherings or lounging. Its modern style makes it a great fit for contemporary living rooms.",
+      "rating": 3,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product41.jpg",
+      "name": "Wooden Kitchen Cart",
+      "price": 199.99,
+      "size": "Standard",
+      "description": "A versatile wooden kitchen cart with wheels, offering extra storage and prep space. The cart features a butcher block top and spacious shelves, making it perfect for small kitchens. Its portable design allows for easy movement, adding functionality to your kitchen.",
+      "rating": 4,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product42.jpg",
+      "name": "Compact Dining Table",
+      "price": 259.99,
+      "size": "Standard",
+      "description": "A compact dining table with a sleek design, perfect for small spaces. The table’s modern look and durable construction make it ideal for casual dining. Its small footprint allows it to fit comfortably in kitchens or dining areas with limited space.",
+      "rating": 5,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product43.jpg",
+      "name": "Chesterfield Sofa",
+      "price": 899.99,
+      "size": "Large",
+      "description": "A classic Chesterfield sofa with tufted leather upholstery and rolled arms, offering a timeless design. This luxurious sofa adds elegance to any living space, providing both comfort and sophistication. Perfect for traditional or vintage-inspired interiors.",
+      "rating": 2,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product44.jpg",
+      "name": "Wooden Ladder Shelf",
+      "price": 159.99,
+      "size": "Small",
+      "description": "A rustic wooden ladder shelf with multiple tiers for displaying kitchen items, books, or decorative pieces. This space-saving shelf adds a touch of farmhouse charm to any kitchen or living area, offering both storage and style in one functional piece.",
+      "rating": 1,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product45.jpg",
+      "name": "Mid-Century Lounge Chair",
+      "price": 249.99,
+      "size": "Small",
+      "description": "A stylish mid-century lounge chair with a wooden frame and upholstered cushions. Perfect for reading or relaxing, this chair adds a touch of retro flair to your living space. Its compact size makes it a great choice for smaller rooms or corners.",
+      "rating": 2,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product46.jpg",
+      "name": "Glass Dining Table",
+      "price": 399.99,
+      "size": "Large",
+      "description": "A sleek glass dining table with a stainless steel frame, offering a contemporary design. The transparent glass top gives the table a modern and open feel, making it ideal for formal dining rooms or casual kitchen spaces.",
+      "rating": 3,
+      "type": "Table"
+    },
+    {
+      "image_path": "images/product47.jpg",
+      "name": "Plush Reclining Sofa",
+      "price": 799.99,
+      "size": "Large",
+      "description": "A plush reclining sofa with soft fabric upholstery, offering superior comfort for relaxing. The recline function allows you to find the perfect position for lounging, while the durable frame ensures long-lasting use. Ideal for living rooms or home theaters.",
+      "rating": 4,
+      "type": "Sofa"
+    },
+    {
+      "image_path": "images/product48.jpg",
+      "name": "Kitchen Pantry Cabinet",
+      "price": 379.99,
+      "size": "Large",
+      "description": "A spacious kitchen pantry cabinet with adjustable shelves and ample storage space. Perfect for organizing food, cookware, and small appliances, this cabinet’s sleek design fits well in modern kitchens, offering both style and practicality.",
+      "rating": 5,
+      "type": "Kitchen"
+    },
+    {
+      "image_path": "images/product49.jpg",
+      "name": "Ergonomic Desk Chair",
+      "price": 149.99,
+      "size": "Small",
+      "description": "An ergonomic desk chair with a mesh back and adjustable seat height. This chair offers superior comfort and support for long hours of work, featuring a sleek design that fits well in home offices or study spaces.",
+      "rating": 1,
+      "type": "Chair"
+    },
+    {
+      "image_path": "images/product50.jpg",
+      "name": "Extendable Wooden Table",
+      "price": 599.99,
+      "size": "Large",
+      "description": "An extendable wooden dining table with a classic design and smooth extension mechanism. Perfect for large families or hosting dinner parties, this table combines practicality with timeless style, making it a great addition to any dining room.",
+      "rating": 3,
+      "type": "Table"
+    }
+  ]
+}

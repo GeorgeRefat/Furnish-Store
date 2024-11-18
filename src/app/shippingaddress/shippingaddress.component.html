@@ -1,0 +1,65 @@
+<div class="custom-bg">
+  <app-nav></app-nav>
+  <div class="container mb-5">
+    <!-- Page Header -->
+    <header class="text-center">
+        <h2 class="Outfit titlename">Your Cart</h2>
+        <p class="Outfit paragraf">Review the items you’ve selected before proceeding to checkout.</p>
+    </header>
+
+    <!-- Page Content -->
+    <main>
+        <h4 class="Outfit shipping">Shipping Details</h4>
+        <hr>
+        <div class="row pt-3">
+            <div class="col-lg-6 col-md-12">
+                <!-- Full Name -->
+                <label for="fullName" class="Outfit eee">Full Name</label>
+                <input id="fullName"  type="text" name="fullName" placeholder="Enter Your Full Name"
+                    class="input-field Outfit" required>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <!-- Phone Number -->
+                <label for="phoneNumber" class="Outfit eee">Phone Number</label>
+                <input id="phoneNumber" type="tel" name="phoneNumber" class="input-field Outfit"
+                    placeholder="Enter Your Phone Number" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <!-- Address -->
+                <label for="address" class="Outfit eee">Address</label>
+                <input id="address" type="text" name="address" placeholder="Enter Your Address" class="input-field Outfit"
+                    required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <!-- Country -->
+                <label for="country" class="Outfit eee">Country</label>
+                <input id="country" type="text" name="country" placeholder="Enter Your Country" class="input-field Outfit"
+                    required>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <!-- City -->
+                <label for="city" class="Outfit eee">City</label>
+                <input id="city" type="text" name="city" placeholder="Enter Your City" class="input-field Outfit" required>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <!-- Postal Code -->
+                <label for="postalCode" class="Outfit eee">Zip/Postal Code</label>
+                <input id="postalCode" type="text" name="postalCode" placeholder="Enter Your Zip/Postal Code"
+                    class="input-field Outfit" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <!-- Address -->
+                <button class="deliver-button Outfit" (click)="paymenttocheck()">Deliver to the address</button>
+            </div>
+        </div>
+    </main>
+
+</div>
+  <app-footer></app-footer>
+</div>
